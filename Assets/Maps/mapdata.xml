@@ -1,0 +1,10 @@
+<maps>
+	<map1>
+		<mapname>Map 1</mapname>
+		<height>14</height>
+		<width>10</width>
+		<obstacles>
+			<Hex x="0" y="0">0,1</Hex>
+		</obstacles>
+	</map1>
+</maps>
